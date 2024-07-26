@@ -2,13 +2,6 @@
 
 This repository provides a blank template for setting up an Onion Architecture in .NET Framework projects. The goal is to save time and ensure a consistent structure for your applications.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-
 ## Introduction
 
 The Onion Architecture is a layered architectural style that emphasizes the separation of concerns and the inversion of control. This template provides a ready-to-use structure to quickly set up your projects with the Onion Architecture.
